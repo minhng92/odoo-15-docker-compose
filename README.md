@@ -132,3 +132,8 @@ server {
 <img src="screenshots/odoo-15-sales-screen.png" width="100%">
 
 <img src="screenshots/odoo-15-product-form.png" width="100%">
+
+
+### Infrastructure model
+
+![Infrastructure model](.infragenie/infrastructure_model.png)
